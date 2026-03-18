@@ -1,5 +1,0 @@
-
-[submodule "worlds/tw3"]
-	path = worlds/tw3
-	url = https://git.cmooseserver.duckdns.org/moose/archipelago_tw3.git
-	branch = initial-client-implementation

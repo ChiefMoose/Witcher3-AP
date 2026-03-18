@@ -1,0 +1,5 @@
+
+[submodule "worlds/tw3"]
+	path = worlds/tw3
+	url = https://git.cmooseserver.duckdns.org/Witcher3_Archipelago_MW/tw3_ap_client.git
+	branch = initial-client-implementation
